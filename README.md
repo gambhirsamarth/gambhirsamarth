@@ -28,7 +28,3 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=gambhirsamarth&theme=github)
 
-<a href="https://open.spotify.com/user/31vsxjus3ft5t5ymk744qoonsybm"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vsxjus3ft5t5ymk744qoonsybm&count=1&width=1000" alt="Spotify"/>
- </a>
-
