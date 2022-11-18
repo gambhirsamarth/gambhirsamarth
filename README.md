@@ -31,4 +31,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=gambhirsamarth&theme=github)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vsxjus3ft5t5ymk744qoonsybm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vsxjus3ft5t5ymk744qoonsybm&count=1)
