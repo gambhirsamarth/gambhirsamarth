@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Gambhir</h1>
-<h3 align="center">Coffee, Music and Code.</h3>
+<h3 align="center">Coffee, Anime and Code.</h3>
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 - 🌱 I’m currently learning **Web Devlopment**
