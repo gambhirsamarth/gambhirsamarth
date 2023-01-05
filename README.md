@@ -26,9 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gambhirsamarth&" alt="gambhirsamarth" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsamarth&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-![](https://activity-graph.herokuapp.com/graph?username=gambhirsamarth&theme=github)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vsxjus3ft5t5ymk744qoonsybm&count=1)
