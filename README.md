@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👀👋🏻</h1>
+<h1 align="center">Hey👀</h1>
 <h1 align="center">I'm Samarth Gambhir</h1>
 <h3 align="center">Coffee☕, Music🎧 & Code👨🏻‍💻.</h3>
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
