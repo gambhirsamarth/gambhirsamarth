@@ -3,7 +3,7 @@
 <h3 align="center">Coffee☕, Music🎧 & Code👨🏻‍💻.</h3>
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node JS & Cloud Computing**
 
 - 💬 Ask me about **Java, C++, Web Development**
 
