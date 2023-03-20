@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node JS & Cloud Computing**
 
-- 💬 Ask me about **Java, C++, Web Development**
+- 💬 Ask me about **Java, C++, Web Designing**
 
 - 📫 How to reach me **gambhirsamarth@gmail.com**
 
