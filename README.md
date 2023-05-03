@@ -3,9 +3,9 @@
 <h3 align="center">Coffee☕, Music🎧 & Code👨🏻‍💻.</h3>
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-- 🌱 I’m currently learning **Node JS & Cloud Computing**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Java, C++, Web Development**
+- 💬 Ask me about **Java, Web Development**
 
 - 📫 How to reach me **gambhirsamarth@gmail.com**
 
