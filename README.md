@@ -3,6 +3,7 @@
 <h3 align="center">Coffee☕, Music🎧 & Code👨🏻‍💻.</h3>
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Java, Web Development**
@@ -18,6 +19,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gambhirsamarth&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gambhirsamarth&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+![Codewars](https://github.r2v.ch/codewars?user=samgambhir02&theme=gradient)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsamarth&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
