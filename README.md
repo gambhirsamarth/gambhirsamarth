@@ -1,17 +1,57 @@
 <h1 align="center">Hey 👋👀</h1>
 <h1 align="center">I'm Samarth Gambhir</h1>
-<h3 align="center">Coffee☕, Music🎧 & Code👨🏻‍💻.</h3>
+<h3 align="center">Coffee☕, Music🎧 & Code👨🏻‍💻</h3>
+
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-- 🌱 I’m currently working on **Spring Boot**
+### 🚀 About Me:
+- 💻 **Software Engineer** | **Java Backend Developer**
+- 🌱 Currently learning **Go** & **System Design**
+- 🏗️ Working on **Backend & Cloud Technologies**
+- 🎯 Beginner in **React.js**
+- 💬 Ask me about **Java, Spring Boot, Backend Development**
+- 📫 Reach me at **gambhirsamarth@gmail.com**
 
-- 🌱 I’m currently learning **Express JS**
+---
 
-- 💬 Ask me about **Java, Backend Development**
+### 🛠️ Languages & Tools:
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
+</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS S3" width="40" height="40"/> 
+  </a> 
+  <a href="https://cloud.google.com/functions" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Functions" width="40" height="40"/> 
+  </a> 
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate ORM" width="40" height="40"/> 
+  </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+</p>
 
-- 📫 How to reach me **gambhirsamarth@gmail.com**
+---
 
+### 📈 Learning Roadmap:
+<a href="https://roadmap.sh">
+  <img src="https://roadmap.sh/card/wide/6735c943e86e9ff4d2b3d8bf?variant=dark&roadmaps=backend" alt="roadmap.sh"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6735c943e86e9ff4d2b3d8bf?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
+---
+
+Feel free to connect! 🚀
