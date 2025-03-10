@@ -28,6 +28,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+</a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS S3" width="40" height="40"/> 
   </a> 
@@ -46,12 +49,17 @@
 </p>
 
 ---
+### ✍🏻 Blogs:
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=gambhirsamarth)](https://dev.to/gambhirsamarth)
 
-### 📈 Learning Roadmap:
+---
+
+<!-- ### 📈 Learning Roadmap: 
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/wide/6735c943e86e9ff4d2b3d8bf?variant=dark&roadmaps=backend" alt="roadmap.sh"/>
 </a>
 
 ---
 
-Feel free to connect! 🚀
+
+Feel free to connect! 🚀>
