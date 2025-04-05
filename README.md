@@ -46,6 +46,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
