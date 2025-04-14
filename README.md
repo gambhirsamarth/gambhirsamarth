@@ -57,6 +57,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gambhirsamarth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ### 📈 Learning Roadmap: 
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/wide/6735c943e86e9ff4d2b3d8bf?variant=dark&roadmaps=backend" alt="roadmap.sh"/>
