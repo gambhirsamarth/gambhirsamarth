@@ -53,11 +53,12 @@
 
 ---
 ### ✍🏻 Blogs:
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=gambhirsamarth)](https://dev.to/gambhirsamarth)
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=gambhirsamarth&slug=how-to-upload-files-to-aws-s3-using-java-a-step-by-step-guide-2p18)](https://dev.to/gambhirsamarth/how-to-upload-files-to-aws-s3-using-java-a-step-by-step-guide-2p18)
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=gambhirsamarth&slug=why-java-doesnt-support-multiple-inheritance-a-simplified-explanation-6hl)](https://dev.to/gambhirsamarth/why-java-doesnt-support-multiple-inheritance-a-simplified-explanation-6hl)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gambhirsamarth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gambhirsamarth&layout=compact)]()
 
 <!-- ### 📈 Learning Roadmap: 
 <a href="https://roadmap.sh">
