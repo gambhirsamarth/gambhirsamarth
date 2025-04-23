@@ -59,6 +59,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gambhirsamarth&layout=compact)]()
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=gambhirsamarth&card_width=300)]()
 
 <!-- ### 📈 Learning Roadmap: 
 <a href="https://roadmap.sh">
