@@ -49,6 +49,9 @@
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> 
   </a> 
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" alt="Kafka" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
